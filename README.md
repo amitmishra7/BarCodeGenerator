@@ -255,7 +255,7 @@ Future<void> _shareBarCodeImage(Uint8List bytes) async {
 ```
 This will save the image in Unit8List and open the share intent for you. Now you can select the app in which you want to share this image.
 
-## Step 8 : Assemble all UI
+## Step 7 : Assemble all UI
 
 All the UI methods that we have created above are used to build our UI as shown below.
 
