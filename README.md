@@ -222,7 +222,7 @@ return Padding(
 
 And its done. Thats all for the basic demo of a bar code generator app. You will now be able to create a Bar Code from the input in text field and the type selected from the dropdown. But as you know we will be adding some flavors to our app lets keep going with the flow.
 
-## Step 7 : Sharing the Bar Code
+## Step 6 : Sharing the Bar Code
 
 ```dart
 
